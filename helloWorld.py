@@ -1,4 +1,4 @@
 #declaring and assigning variable names 
-sentence_word = input("Enter your name: ") 
+new_sentence = input("Enter your name: ") 
 # output result
-print(sentence_word)
+print(new_sentence)
