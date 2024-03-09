@@ -1,2 +1,2 @@
-sentence = "Hello World!"
+sentence = "Git is awesome!"
 print(sentence)
